@@ -6,3 +6,5 @@ def using_until
           levitation_force += 1
         end
 end
+
+#originally had leviation_force >= 10. 
